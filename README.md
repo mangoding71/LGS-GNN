@@ -1,4 +1,4 @@
-Local graph smoothing based on Unsupervised Learning for Link prediction
+Local graph smoothing for link prediction against unverisity attack
 ===============================================================================
 
 About
