@@ -1,9 +1,9 @@
-Local graph smoothing for link prediction against unverisity attack
+Local graph smoothing for link prediction against universal attack
 ===============================================================================
 
 About
 -----
-This project is the implementation of the paper "Local graph smoothing for link prediction against unverisity attack".
+This project is the implementation of the paper "Local graph smoothing for link prediction against universal attack".
 
 This repo contains the codes, data and results reported in the paper.
 
